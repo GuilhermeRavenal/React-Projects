@@ -1,0 +1,42 @@
+.conteiner {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cinza-escuro);
+    flex-direction: column;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--cinza-claro);
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.titulo {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.campo {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.botao {
+    background-color: var(--roxo-escuro);
+    color: var(--cinza-claro);
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.mensagem {
+    font-size: .75rem;
+    font-weight: 400;
+    color: red;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}

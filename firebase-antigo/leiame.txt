@@ -1,0 +1,1 @@
+Projeto basico que usa firebase pra cadastrar usu rios e posts 
