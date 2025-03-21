@@ -4,7 +4,7 @@ import {Filme} from '../componentes/Filme'
 
 export function Filmes(){
 
-    const apiKey = "1383b7fe1786f8e95fd643dab0de58f7"
+    const apiKey = ""
    
     const [filmes, setFilmes] = useState([]);
 
